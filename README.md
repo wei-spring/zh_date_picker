@@ -11,6 +11,10 @@
 * 自带的是一个裸widget，使用时候，需要再次封装成Dialog或新页面，添加一些操作按钮，才能使用
 * 自带的只能选择年月日，限制的比较死，不能选择年月日其他的组合，eg:年月，月日，年，月，日等
 
+## What?
+
+<img src="https://storage.jd.com/dqimage/img/demo/zh_date_picker.png" width = "600" height = "425" alt="" align=center />
+
 ## How?
 
 依赖library：
