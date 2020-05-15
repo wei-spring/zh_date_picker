@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:zh_date_picker/zh_date_picker.dart';
+import 'package:zh_date_picker/zh_date_pickers.dart';
 import 'package:zh_date_picker/zh_date_picker_dialog.dart';
 
 void main() => runApp(MyApp());

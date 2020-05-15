@@ -1,6 +1,6 @@
 name: zh_date_picker
 description: A Extend Date Picker For Zh Language From CupertinoDatePicker.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/wei-spring/zh_date_picker
 
 environment:

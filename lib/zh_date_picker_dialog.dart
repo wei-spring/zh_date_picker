@@ -3,8 +3,7 @@ library zh_date_picker;
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-
-import 'zh_date_picker.dart';
+import 'package:zh_date_picker/zh_date_pickers.dart';
 
 ///是否可见
 bool _isShowing = false;
