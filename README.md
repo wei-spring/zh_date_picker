@@ -20,8 +20,13 @@
 依赖library：
 
 ```dart
+//Flutter SDK 1.20之前版本
 dependencies:
-  zh_date_picker: ^0.1.0
+  zh_date_picker: ^0.1.1
+
+//Flutter SDK 1.20之后版本
+dependencies:
+  zh_date_picker: ^0.1.2
   
 ```
 在需要显示选择日期地方调用：

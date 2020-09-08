@@ -323,4 +323,12 @@ class ZhCupertinoLocalizations implements CupertinoLocalizations {
 
   static const LocalizationsDelegate<CupertinoLocalizations> delegate =
       ZhLocalizationsDelegate();
+
+  @override
+  String get modalBarrierDismissLabel => throw UnimplementedError();
+
+  @override
+  String tabSemanticsLabel({int tabIndex, int tabCount}) {
+    throw UnimplementedError();
+  }
 }
